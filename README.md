@@ -1,4 +1,4 @@
-This a example that makes dynamic library excutable.
+This is a example that makes dynamic library excutable.
 
 # compile
 
